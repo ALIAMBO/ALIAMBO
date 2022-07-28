@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALIAMBO
-- 👀 I’m interested in Game Developing, Web Developer, and Mobile Application.
+- 👀 I’m interested in Game Developer, Web Developer, and Mobile Application.
 - 🌱 I’m currently learning Software Engineering Multimedia System Development.
 - 📫 How to reach me alibinambo26@gmail.com
 
